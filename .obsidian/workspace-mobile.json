@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "231c3062b8f56767",
+            "id": "65426fbb19ccb575",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Physik - Main page.md",
+                "file": "English/Wordlists/Wordlist — pro-life.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Physik - Main page"
+              "title": "Wordlist — pro-life"
             }
           }
         ]
@@ -182,19 +182,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "231c3062b8f56767",
+  "active": "65426fbb19ccb575",
   "lastOpenFiles": [
-    "Physik/Bewegungen/Formeln für Bewegung.md",
-    "Physik/Bewegungen/Bewegungen - Aufgaben 1.md",
-    "Physik/Physik - Main page.md",
-    "Physik/Kraft/Formeln für Kraft.md",
     "Bio/Cytologie/Cytologie - 1.md",
+    "English/Wordlists/Wordlist — pro-life.md",
+    "Ink/Writing/2026.9.18 - 12.00pm.svg",
+    "Ink/Writing",
+    "Ink",
+    "Physik/Kraft/Formeln für Kraft.md",
+    "Unbenannt",
+    "English/Wordlists",
+    "English",
+    "Physik/Physik - Main page.md",
+    "Physik/Bewegungen/Formeln für Bewegung.md",
     "Willkommen.md",
+    "Physik/Bewegungen/Bewegungen - Aufgaben 1.md",
     "Physik/Kraft",
     "Physik/Bewegungen",
     "Physik",
     "Bio/Cytologie",
-    "Bio",
-    "Unbenannt.base"
+    "Bio"
   ]
 }
