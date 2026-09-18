@@ -1,5 +1,4 @@
 
-
 | English word             | Explanation                                | German word                  |
 | ------------------------ | ------------------------------------------ | ---------------------------- |
 | Abortion                 | To get rid of pregnancy                    | Abtreibung                   |
@@ -12,3 +11,7 @@
 | To conceive              | ≈ to receive                               | Empfangen                    |
 | Interception             | Moment of creating life (sperm + egg cell) | Empfängnis                   |
 | Morning-after-pill       | Type of contraception                      | “Pille danach”               |
+
+<h4>Back to main page</h4>
+
+[[English - Main Page]]

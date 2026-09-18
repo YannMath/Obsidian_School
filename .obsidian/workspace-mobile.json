@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/Kraft/Die Newton'schen Axiome.md",
+                "file": "Physik/Physik - Main page.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Die Newton'schen Axiome"
+              "title": "Physik - Main page"
+            }
+          },
+          {
+            "id": "412b847cb158728a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/English - Main Page.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "English - Main Page"
+            }
+          },
+          {
+            "id": "3348ab40954fb134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physik/Physik - Main page.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Physik - Main page"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,14 +214,18 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "5a5f80620e76cc49",
+  "active": "3348ab40954fb134",
   "lastOpenFiles": [
-    "Physik/Physik - Main page.md",
+    "Physik/Bewegungen/Bewegungen - Aufgaben 1.md",
     "Physik/Bewegungen/Formeln für Bewegung.md",
-    "Bio/Cytologie/Cytologie - 1.md",
+    "Physik/Physik - Main page.md",
+    "Fächerübersicht.md",
+    "English/English - Main Page.md",
+    "Wordlist — One country, many cultures.md",
     "English/Wordlists/Wordlist — pro-life.md",
-    "Physik/Kraft/Die Newton'schen Axiome.md",
     "Physik/Kraft/Formeln für Kraft.md",
+    "Physik/Kraft/Die Newton'schen Axiome.md",
+    "Bio/Cytologie/Cytologie - 1.md",
     "Die Newton’schen Axiome",
     "Random stuff",
     "Random stuff/Chor/Test for choir.md",
@@ -205,7 +238,6 @@
     "Random stuff/Chor/Choir pdfs/Chor 4.pdf",
     "Unbenannt 1",
     "Willkommen.md",
-    "Ink/Writing/2026.9.18 - 12.00pm.svg",
-    "Physik/Bewegungen/Bewegungen - Aufgaben 1.md"
+    "Ink/Writing/2026.9.18 - 12.00pm.svg"
   ]
 }

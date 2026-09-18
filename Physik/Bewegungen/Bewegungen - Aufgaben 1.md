@@ -126,3 +126,8 @@ Ein Zug fährt aus dem Stand los. Nach **20 Sekunden** fährt er mit $v = 40 m/s
 a) Wie groß ist seine **durchschnittliche Beschleunigung**, wenn sie *konstant* ist?
 b) Welche **Strecke** hat er während dieser *20 Sekunden* zurückgelegt?
 c) Warum ist die zurückgelegte **Strecke nicht** einfach $40 m/s \cdot 20$
+
+<h4>Hier geht es zurück zur Main Page:</h4>
+
+[[Physik - Main page]]
+

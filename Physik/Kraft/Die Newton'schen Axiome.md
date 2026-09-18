@@ -15,7 +15,7 @@ $$F = a \cdot m$$
 
 <h3>3 - Das Wechselwirkungsprinzip</h3>
 
-Das **zweite Axiom** beschreibt, dass eine Kraft *immer im Paar* auftritt. Das bedeutet, dass *jede Kraft automatisch eine entgegengesetzte Kraft* besitzt.
+Das **dritte Axiom** beschreibt, dass eine Kraft *immer im Paar* auftritt. Das bedeutet, dass *jede Kraft automatisch eine entgegengesetzte Kraft* besitzt.
 Die resultierende Formel lautet:
 $$F_{AB} = F_{BA}$$
 
