@@ -11,10 +11,14 @@
             "id": "5a5f80620e76cc49",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Physik/Kraft/Die Newton'schen Axiome.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Die Newton'schen Axiome"
             }
           }
         ]
@@ -181,8 +185,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8ccdbe0af1810ed0",
+  "active": "5a5f80620e76cc49",
   "lastOpenFiles": [
+    "Physik/Physik - Main page.md",
+    "Physik/Bewegungen/Formeln für Bewegung.md",
+    "Bio/Cytologie/Cytologie - 1.md",
+    "English/Wordlists/Wordlist — pro-life.md",
+    "Physik/Kraft/Die Newton'schen Axiome.md",
+    "Physik/Kraft/Formeln für Kraft.md",
+    "Die Newton’schen Axiome",
     "Random stuff",
     "Random stuff/Chor/Test for choir.md",
     "Random stuff/Chor/Choir pdfs/The midnight of your birth.pdf",
@@ -191,17 +202,10 @@
     "Random stuff/Chor/Choir pdfs/I dreamed a dream.pdf",
     "Random stuff/Chor/Choir pdfs/Chor.pdf",
     "Chor 2.pdf",
-    "Bio/Cytologie/Cytologie - 1.md",
     "Random stuff/Chor/Choir pdfs/Chor 4.pdf",
     "Unbenannt 1",
-    "Random stuff/Chor",
-    "English/Wordlists/Wordlist — pro-life.md",
     "Willkommen.md",
     "Ink/Writing/2026.9.18 - 12.00pm.svg",
-    "Ink/Writing",
-    "Physik/Kraft/Formeln für Kraft.md",
-    "Physik/Physik - Main page.md",
-    "Physik/Bewegungen/Formeln für Bewegung.md",
     "Physik/Bewegungen/Bewegungen - Aufgaben 1.md"
   ]
 }
