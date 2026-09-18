@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "549fcafee381ae85",
+        "id": "cdf5cc76240508b7",
         "type": "tabs",
         "children": [
           {
-            "id": "885b7bf6f9ad3d11",
+            "id": "f5c9e448f61c03fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Chor/Test for choir.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -185,14 +185,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "885b7bf6f9ad3d11",
+  "active": "f5c9e448f61c03fb",
   "lastOpenFiles": [
-    "Chor/I dreamed a dream.pdf",
+    "Chor/Choir pdfs/The midnight of your birth.pdf",
+    "Chor/Choir pdfs",
     "Chor/Test for choir.md",
-    "Chor/Chor.pdf",
+    "Chor 2.goodnotes",
+    "Chor/Choir pdfs/I dreamed a dream.pdf",
+    "Chor/Choir pdfs/Chor.pdf",
     "Chor 2.pdf",
     "Bio/Cytologie/Cytologie - 1.md",
-    "Chor/Chor 4.pdf",
+    "Chor/Choir pdfs/Chor 4.pdf",
     "Unbenannt 1",
     "Chor",
     "English/Wordlists/Wordlist — pro-life.md",
@@ -201,8 +204,6 @@
     "Ink/Writing",
     "Ink",
     "Physik/Kraft/Formeln für Kraft.md",
-    "Unbenannt",
-    "English/Wordlists",
     "Physik/Physik - Main page.md",
     "Physik/Bewegungen/Formeln für Bewegung.md",
     "Physik/Bewegungen/Bewegungen - Aufgaben 1.md"

@@ -9,3 +9,7 @@
 <h2>I dreamed a dream</h2>
 
 ![[I dreamed a dream.pdf]]
+
+<h2>The midnight of your birth</h2>
+
+![[The midnight of your birth.pdf]]
