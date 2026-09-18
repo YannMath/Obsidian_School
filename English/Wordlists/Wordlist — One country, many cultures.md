@@ -2,7 +2,7 @@
 | English word              | German word              |
 | ------------------------- | ------------------------ |
 | Plywood                   | Sperrholz                |
-| iron cast balcony         | Gusseisener Balkn        |
+| iron cast balcony         | Gusseisener Balkon        |
 | Density                   | Bevölkerungsdichte       |
 | Racial segregation/racism | Rassentrennung/Rassismus |
 | Prairie dog               | Erdmännchen              |
