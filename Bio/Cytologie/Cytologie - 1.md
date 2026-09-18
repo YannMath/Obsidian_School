@@ -49,3 +49,8 @@ N[C@@H](CCCNC(=N)N)C(=O)O
 ```smiles
 N[C@@H](CCCCN)C(=O)O
 ```
+
+<h4>Hier geht es zurück zur Main Page:</h4>
+
+[[Bio - Main Page]]
+#Bio 

@@ -5,8 +5,30 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Physik",
+      "color": {
+        "a": 1,
+        "rgb": 28508
+      }
+    },
+    {
+      "query": "tag:#English  ",
+      "color": {
+        "a": 1,
+        "rgb": 1462745
+      }
+    },
+    {
+      "query": "tag:#Bio",
+      "color": {
+        "a": 1,
+        "rgb": 6020417
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 1.8297468166336746,
   "close": true
 }
