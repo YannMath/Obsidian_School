@@ -1,5 +1,11 @@
 Das ist dein neuer *Vault*.
 
-Notiere dir etwas oder, [[Neuer Link|erstelle einen neuen Link]], oder probiere [die Importer-Erweiterung aus](https://help.obsidian.md/Plugins/Importer)!
+```smiles
+CCC(C)C1C(C(C(O1)C=CC(C)C(C(C)C=CC=CC(C)C(C(C)C(C(C=CC(=O)NC(CO)C(=O)O)O)O)O)O)O)C2C(C(C(O2)C(C)C(C3C(C(C(O3)C(C)C(C4C(C(C(O4)C(C)O)O)O)O)O)O)O)O)O
 
-Wenn du soweit bist kannst du diese Seite löschen und den Vault ganz nach deinen Wünschen und Vorstellungen gestalten.
+c12c3c4c5c1c6c7c2c8c9c3c1c2c4c3c4c5c5c6c6c7c7c8c8c9c9c1c1c2c2c3c3c5c4c4c6c5c7c6c8c7c9c1c1c2c3c4c5c67
+
+CC1C=CC=C(C(=O)NC2=C(C3=C(C(=C2O)C1=O)C(=O)C4=C(C3=O)C(=C(C(=C4O)C)C)C=NN5CCN(CC5)C)O)O
+
+CC1OC2CC3OC4CC5OC6CC7OC8CC9OC%10CC%11OC%12CC%13OC1C2C3C4C5C6C7C8C9C%10C%11C%12%13
+```

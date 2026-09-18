@@ -23,3 +23,7 @@ $$m = \frac{F \cdot \delta t}{\delta v}$$
 
 Eine Kraft $F$ wird in Newton($N$) angegeben.
 $1N = 1kg \cdot \frac{m}{s^2}$
+
+<h4>Hier geht es zurück zur Main Page:</h4>
+
+[[Physik - Main page]]
