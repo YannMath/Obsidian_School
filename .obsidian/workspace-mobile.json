@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "529caac193570146",
+        "id": "1cb355c8ac8ceb2a",
         "type": "tabs",
         "children": [
           {
-            "id": "8b0af0d69fc3dea4",
+            "id": "ee4861e8e979659b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Chor/Chor 4.pdf",
-                "page": 1,
-                "left": -1,
-                "top": 787,
-                "zoom": 1.446078431372549
+                "file": "Chor/Test for choir.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-file-text",
-              "title": "Chor 4"
+              "icon": "lucide-file",
+              "title": "Test for choir"
             }
           }
         ]
@@ -39,7 +37,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false,
+            "autoReveal": true,
             "showSearch": false,
             "searchQuery": ""
           },
@@ -187,11 +185,13 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8b0af0d69fc3dea4",
+  "active": "ee4861e8e979659b",
   "lastOpenFiles": [
+    "Chor/Chor.pdf",
+    "Chor/Test for choir.md",
+    "Chor 2.pdf",
     "Bio/Cytologie/Cytologie - 1.md",
     "Chor/Chor 4.pdf",
-    "Chor/Test for choir.md",
     "Unbenannt 1",
     "Chor",
     "English/Wordlists/Wordlist — pro-life.md",
@@ -205,8 +205,6 @@
     "English",
     "Physik/Physik - Main page.md",
     "Physik/Bewegungen/Formeln für Bewegung.md",
-    "Physik/Bewegungen/Bewegungen - Aufgaben 1.md",
-    "Physik/Kraft",
-    "Physik/Bewegungen"
+    "Physik/Bewegungen/Bewegungen - Aufgaben 1.md"
   ]
 }
