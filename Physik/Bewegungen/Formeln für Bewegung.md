@@ -7,5 +7,5 @@ $$a = \frac{\delta v}{\delta t}$$
 
 <h4>Hier geht es zurück zur Main Page:</h4>
 
-[[Physik - Main page]]
+[[Physik - Main Page]]
 #Physik 

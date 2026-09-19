@@ -5,4 +5,5 @@
 <h2>Meine GKs</h2>
 
 [[Bio - Main Page]]
-[[Physik - Main page]]
+[[Chemie - Main Page]]
+[[Physik - Main Page]]

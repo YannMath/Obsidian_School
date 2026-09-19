@@ -3,7 +3,9 @@
 
 Dies ist das Thema, das wir eigentlich machen sollten — daraus ist offensichtlich nichts geworden, stattdessen machen wir jetzt so Chemiezeugs. Da es jedoch entfernt verbunden ist mit der Cytologie werde ich es einfach hier einfügen:
 
-[[Cytologie - 1]]
+[[Aminosäuren]]
+[[Proteine]]
+[[Lipide]]
 
 <h1>Ändere das Fach</h1>
 

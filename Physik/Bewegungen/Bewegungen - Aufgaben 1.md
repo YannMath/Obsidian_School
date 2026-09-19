@@ -129,6 +129,6 @@ c) Warum ist die zurückgelegte **Strecke nicht** einfach $40 m/s \cdot 20$
 
 <h4>Hier geht es zurück zur Main Page:</h4>
 
-[[Physik - Main page]]
+[[Physik - Main Page]]
 #Physik 
 
