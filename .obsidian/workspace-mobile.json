@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fächerübersicht.md",
+                "file": "Bio/Cytologie/Lipide.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fächerübersicht"
+              "title": "Lipide"
             }
           }
         ]
@@ -185,16 +185,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "8ccdbe0af1810ed0",
+  "active": "ff3adceaf6818c3b",
   "lastOpenFiles": [
+    "Bio/Bio - Main Page.md",
+    "Physik/Kraft/Die Newton'schen Axiome.md",
+    "Bio/Cytologie/Cytologie - 1.md",
+    "Chemie/Stoffklassen/Alkohole.md",
+    "Bio/Cytologie/Proteine.md",
+    "Bio/Cytologie/Lipide.md",
+    "Bio/Cytologie/Fettsäuren.md",
+    "Chemie/Chemie - Main Page.md",
+    "Bio/Cytologie/Aminosäuren.md",
+    "Chemie/Stoffklassen",
+    "Chemie",
     "Physik/Physik - Main page.md",
+    "Fächerübersicht.md",
     "Physik/Bewegungen/Bewegungen - Aufgaben 1.md",
     "Physik/Bewegungen/Formeln für Bewegung.md",
     "Physik/Kraft/Formeln für Kraft.md",
-    "Physik/Kraft/Die Newton'schen Axiome.md",
-    "Fächerübersicht.md",
-    "Bio/Bio - Main Page.md",
-    "Bio/Cytologie/Cytologie - 1.md",
     "English/English - Main Page.md",
     "English/Wordlists/Wordlist — One country, many cultures.md",
     "English/Wordlists/Wordlist — pro-life.md",
@@ -209,8 +217,6 @@
     "Random stuff/Chor/Choir pdfs/I dreamed a dream.pdf",
     "Random stuff/Chor/Choir pdfs/Chor.pdf",
     "Chor 2.pdf",
-    "Random stuff/Chor/Choir pdfs/Chor 4.pdf",
-    "Unbenannt 1",
     "Ink/Writing/2026.9.18 - 12.00pm.svg"
   ]
 }
