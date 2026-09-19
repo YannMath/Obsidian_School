@@ -1,5 +1,4 @@
-Hier sind die benötigten Formeln:
-[[Formeln für Bewegung]]
+Für die folgenden Aufgaben brauchst du diese [[Formeln für Bewegung|Formeln]].
 
 <h3>Leichte Aufgaben</h3>
 
