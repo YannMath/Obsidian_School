@@ -1,6 +1,6 @@
 <h2>Role</h2>
 
-The German Bundeskanzler acts as the *head of government* within the [[Political systems - Germany|political system of Germany]].
+The German chancellor acts as the *head of government* within the [[Political systems - Germany|political system of Germany]].
 
 ---
 
@@ -15,11 +15,11 @@ The chancellor of the Federal Republic of Germany acts as *head of executive* an
 
 <h2>Relationship to the cabinet & other parties</h2>
 
-> - does not lead a party
+> - does not always lead a party
 > - has to be part of a party
 > - has control over the Cabinet
 
-Similar to the [[US president]] the German chancellor does not have to lead a party although he *is a party leader most of the times*. Every chancellor *has to be part of a party*
+Similar to the [[US president]] the German chancellor does not have to lead a party although he *is a party leader most of the time*. Every chancellor *has to be part of a party*
 
 In Germany the chancellor has substantial control over the Cabinet, e.g:
 - decides about Cabinet members

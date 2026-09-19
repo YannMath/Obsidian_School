@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bio/Cytologie/Lipide.md",
+                "file": "GKE/Political systems/German chancellor.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lipide"
+              "title": "German chancellor"
             }
           }
         ]
@@ -42,7 +42,7 @@
             "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
-          "title": "Dateiexplorer"
+          "title": "Files"
         }
       },
       {
@@ -172,13 +172,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graph-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
@@ -187,36 +187,43 @@
   },
   "active": "ff3adceaf6818c3b",
   "lastOpenFiles": [
-    "Bio/Bio - Main Page.md",
-    "Physik/Kraft/Die Newton'schen Axiome.md",
-    "Bio/Cytologie/Cytologie - 1.md",
+    "GKE/Political systems/GB prime minister.md",
+    "GKE/Political systems/Political systems - Great Britain.md",
+    "GKE/GKE - Main Page.md",
+    "GKE/Political systems/Political systems - Germany.md",
+    "GKE/Political systems/US president.md",
+    "GKE/Political systems/Political systems - US.md",
+    "Fächerübersicht.md",
+    "Random stuff/Chor/Test für den Chor.md",
+    "GKE/Political systems/German chancellor.md",
+    "GKE/Government of Germany/Ministerial autonomy.md",
+    "GKE/Political systems",
+    "GKE/Government of Germany",
+    "GKE",
     "Chemie/Stoffklassen/Alkohole.md",
+    "Chemie/Stoffklassen",
+    "Chemie/Chemie - Main Page.md",
+    "Chemie",
     "Bio/Cytologie/Proteine.md",
     "Bio/Cytologie/Lipide.md",
     "Bio/Cytologie/Fettsäuren.md",
-    "Chemie/Chemie - Main Page.md",
     "Bio/Cytologie/Aminosäuren.md",
-    "Chemie/Stoffklassen",
-    "Chemie",
-    "Physik/Physik - Main page.md",
-    "Fächerübersicht.md",
-    "Physik/Bewegungen/Bewegungen - Aufgaben 1.md",
-    "Physik/Bewegungen/Formeln für Bewegung.md",
-    "Physik/Kraft/Formeln für Kraft.md",
     "English/English - Main Page.md",
     "English/Wordlists/Wordlist — One country, many cultures.md",
     "English/Wordlists/Wordlist — pro-life.md",
-    "Willkommen.md",
+    "Physik/Physik - Main page.md",
+    "Physik/Kraft/Die Newton'schen Axiome.md",
+    "Physik/Kraft/Formeln für Kraft.md",
+    "Physik/Bewegungen/Bewegungen - Aufgaben 1.md",
+    "Physik/Bewegungen/Formeln für Bewegung.md",
+    "Bio/Bio - Main Page.md",
+    "Bio/Cytologie/Cytologie - 1.md",
     "Unbenannt.canvas",
     "Die Newton’schen Axiome",
     "Random stuff",
-    "Random stuff/Chor/Test for choir.md",
     "Random stuff/Chor/Choir pdfs/The midnight of your birth.pdf",
     "Random stuff/Chor/Choir pdfs",
     "Chor 2.goodnotes",
-    "Random stuff/Chor/Choir pdfs/I dreamed a dream.pdf",
-    "Random stuff/Chor/Choir pdfs/Chor.pdf",
-    "Chor 2.pdf",
     "Ink/Writing/2026.9.18 - 12.00pm.svg"
   ]
 }
