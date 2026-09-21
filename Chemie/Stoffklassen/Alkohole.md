@@ -38,6 +38,31 @@ C(CO)(CO)O
 ```
 
 ---
+
+Eine weitere Möglichkeit, Alkohole zu unterscheiden, *die jedoch nur bei einwertigen Alkoholen gilt*, ist, sie nach der *Stellung der $OH$ Gruppe* zu unterscheiden: 
+
+<h4>Primäre Alkohole</h4>
+
+ Bei diesen liegt am C-Atom, an dem die OH-Gruppe hängt, noch *ein weiteres C-Atom*:
+```smiles
+CCO
+```
+
+<h4>Sekundäre Alkohole</h4>
+
+Bei diesen liegen am C-Atom, an dem die OH-Gruppe hängt, noch *zwei weitere C-Atome*:
+```smiles
+CCCO
+```
+
+<h4>Tertiäre Alkohole</h4>
+
+Bei diesen liegen am C-Atom, an dem die OH-Gruppe hängt, noch *drei weitere C-Atome*:
+```smiles
+CCCCO
+```
+
+---
 <h2>Eigenschaften von Alkoholen</h2>
 
 Aufgrund der *funktionellen Gruppe* $OH$ von Alkoholen haben diese eine Reihe an Eigenschaften:

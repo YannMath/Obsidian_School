@@ -14,13 +14,24 @@ C(CO)(CO)O
 CCCC(=O)O
 ```
 
----
 Wenn diese nun *verestern*, entsteht aus den *Wasserstoffatomen* $H$ der Hydroxylgruppe des Glycerins und einer *Hydroxylgruppe* $OH$ der Fettsäure *Wasser* $H_2O$. Die losen Enden verbinden sich dann zu einem *Lipid*.
 
 ```smiles
 CC(=O)OCC(OCC(=O)CC)COC(=O)CC
 [H]O[H].[H]O[H].[H]O[H]
 ```
+
+---
+
+<h2>Eigenschaften</h2>
+
+Bei Lipiden *unterscheidet* man gewisse Eigenschaften zwischen dem *Lipidkopf* und dem *Lipidschwanz*.
+
+**Kopf:**
+> - hydrophil
+
+**Schwanz:**
+> - hydrophob
 
 <h4>Hier geht es zurück zur Main Page:</h4>
 

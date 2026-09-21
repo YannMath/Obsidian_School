@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "07ebb9748cba0475",
+        "id": "2648b773306b907e",
         "type": "tabs",
         "children": [
           {
-            "id": "9562243773a9ae91",
+            "id": "969e060ceddd5f0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Erdkunde/Erdkunde - Main Page.md",
-                "mode": "source",
+                "file": "Fächerübersicht.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Fächerübersicht"
+            }
+          },
+          {
+            "id": "1a6ba0649cd08823",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Wordlists/Wordlist — Pro-life.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erdkunde - Main Page"
+              "title": "Wordlist — Pro-life"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,10 +199,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9562243773a9ae91",
+  "active": "1a6ba0649cd08823",
   "lastOpenFiles": [
+    "English/Wordlists/Wordlist — Voluntarism.md",
+    "English/Wordlists/Wordlist — Pro-life.md",
+    "English/English - Main Page.md",
     "Fächerübersicht.md",
+    "Chemie/Stoffklassen/Alkohole.md",
+    "Bio/Cytologie/Aminosäuren.md",
+    "Bio/Cytologie/Lipide.md",
+    "Bio/Cytologie/Fettsäuren.md",
+    "Chemie/Chemie - Main Page.md",
+    "Bio/Bio - Main Page.md",
+    "Random stuff/Test - Info HÜ.md",
     "Erdkunde/Erdkunde - Main Page.md",
+    "Unbenannt",
     "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Flächen.md",
     "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Gemeinschaft.md",
     "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Gebäude.md",
@@ -196,23 +222,13 @@
     "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Wasser.md",
     "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Mobilität.md",
     "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Energie.md",
-    "Bio/Cytologie/Aminosäuren.md",
-    "Bio/Bio - Main Page.md",
     "GKE/GKE - Main Page.md",
     "Erdkunde/Nachhaltigkeit",
     "Erdkunde",
     "GKE/Political systems/German chancellor.md",
     "GKE/Political systems/US president.md",
     "GKE/Political systems/Political systems - US.md",
-    "Chemie/Chemie - Main Page.md",
-    "Bio/Cytologie/Lipide.md",
-    "Bio/Cytologie/Fettsäuren.md",
-    "Chemie/Stoffklassen/Alkohole.md",
     "Bio/Cytologie/Proteine.md",
-    "Physik/Physik - Main page.md",
-    "Physik/Bewegungen/Formeln für Bewegung.md",
-    "Physik/Bewegungen/Bewegungen - Aufgaben 1.md",
-    "Physik/Kraft/Formeln für Kraft.md",
-    "GKE/Political systems/Political systems - Great Britain.md"
+    "Physik/Physik - Main page.md"
   ]
 }

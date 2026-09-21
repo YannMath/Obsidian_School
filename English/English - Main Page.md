@@ -4,6 +4,7 @@ Vocabulary is an important part of the english major class as a broad vocabulary
 
 [[Wordlist — pro-life]]
 [[Wordlist — One country, many cultures]]
+[[Wordlist — Voluntarism]]
 
 <h1>Change subject</h1>
 
