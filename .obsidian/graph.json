@@ -8,24 +8,45 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Physik",
+      "query": "tag: #Chemie  ",
       "color": {
         "a": 1,
-        "rgb": 28508
+        "rgb": 2278454
+      }
+    },
+    {
+      "query": "tag:#Bio  ",
+      "color": {
+        "a": 1,
+        "rgb": 2653825
+      }
+    },
+    {
+      "query": "tag:#Physik  ",
+      "color": {
+        "a": 1,
+        "rgb": 1336848
       }
     },
     {
       "query": "tag:#English  ",
       "color": {
         "a": 1,
-        "rgb": 1462745
+        "rgb": 596942
       }
     },
     {
-      "query": "tag:#Bio",
+      "query": "tag:#GKE  ",
       "color": {
         "a": 1,
-        "rgb": 6020417
+        "rgb": 5431530
+      }
+    },
+    {
+      "query": "tag:#Erdkunde  ",
+      "color": {
+        "a": 1,
+        "rgb": 5905408
       }
     }
   ],
@@ -39,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.8297468166336746,
+  "scale": 0.841331282102695,
   "close": true
 }

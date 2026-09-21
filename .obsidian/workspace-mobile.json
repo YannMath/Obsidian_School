@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "67f49de0180b2998",
+    "id": "22b0af2e6a65d7f7",
     "type": "split",
     "children": [
       {
-        "id": "20beb9dec1867a75",
+        "id": "07ebb9748cba0475",
         "type": "tabs",
         "children": [
           {
-            "id": "ff3adceaf6818c3b",
+            "id": "9562243773a9ae91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fächerübersicht.md",
-                "mode": "preview",
+                "file": "Erdkunde/Erdkunde - Main Page.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fächerübersicht"
+              "title": "Erdkunde - Main Page"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9dfe2d5effa8f286",
+    "id": "de5c683af0438b25",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "8ccdbe0af1810ed0",
+        "id": "d8c1a45f1cdf91b0",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -46,7 +46,7 @@
         }
       },
       {
-        "id": "f04fd33ea32e5876",
+        "id": "d959d8fe6b16b8bf",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -63,7 +63,7 @@
         }
       },
       {
-        "id": "d2d9c63bbba4abee",
+        "id": "bfdf3255742b01a0",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -78,7 +78,7 @@
         }
       },
       {
-        "id": "3439321c4c760725",
+        "id": "5f60a2196ee341fa",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -92,7 +92,7 @@
         }
       },
       {
-        "id": "3fb4141b3fceecc6",
+        "id": "b57aa2a717d7c60f",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -108,16 +108,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "270df1eb0d79bce7",
+    "id": "fa0a9ea03f8a4d6e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2efbed1bd18fee08",
+        "id": "96f28755866fa798",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Willkommen.md",
+            "file": "Fächerübersicht.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,11 +131,12 @@
         }
       },
       {
-        "id": "1c25d3c0500eb5ab",
+        "id": "b43575aea7a8ed00",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Fächerübersicht.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -144,12 +145,12 @@
         }
       },
       {
-        "id": "74a385fbcd46cf5c",
+        "id": "ec18c376d714cacf",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Fächerübersicht.md",
+            "file": "Erdkunde/Erdkunde - Main Page.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -159,7 +160,7 @@
         }
       },
       {
-        "id": "e00d74cde1b5aa4c",
+        "id": "cb7705943fad7d9e",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -180,51 +181,38 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
-      "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff3adceaf6818c3b",
+  "active": "9562243773a9ae91",
   "lastOpenFiles": [
+    "Fächerübersicht.md",
+    "Erdkunde/Erdkunde - Main Page.md",
+    "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Flächen.md",
+    "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Gemeinschaft.md",
+    "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Gebäude.md",
+    "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Abfall.md",
+    "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Ernährung.md",
+    "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Wasser.md",
+    "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Mobilität.md",
+    "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Energie.md",
+    "Bio/Cytologie/Aminosäuren.md",
+    "Bio/Bio - Main Page.md",
+    "GKE/GKE - Main Page.md",
+    "Erdkunde/Nachhaltigkeit",
+    "Erdkunde",
+    "GKE/Political systems/German chancellor.md",
+    "GKE/Political systems/US president.md",
+    "GKE/Political systems/Political systems - US.md",
+    "Chemie/Chemie - Main Page.md",
+    "Bio/Cytologie/Lipide.md",
+    "Bio/Cytologie/Fettsäuren.md",
+    "Chemie/Stoffklassen/Alkohole.md",
+    "Bio/Cytologie/Proteine.md",
     "Physik/Physik - Main page.md",
     "Physik/Bewegungen/Formeln für Bewegung.md",
     "Physik/Bewegungen/Bewegungen - Aufgaben 1.md",
-    "Physik/Kraft/Die Newton'schen Axiome.md",
-    "Fächerübersicht.md",
-    "GKE/GKE - Main Page.md",
-    "GKE/Political systems/German chancellor.md",
-    "GKE/Political systems/GB prime minister.md",
-    "GKE/Political systems/US president.md",
-    "GKE/Political systems/Political systems - US.md",
-    "Random stuff/Chor/Test für den Chor.md",
-    "GKE/Political systems/Political systems - Germany.md",
-    "GKE/Political systems/Political systems - Great Britain.md",
-    "GKE/Government of Germany/Ministerial autonomy.md",
-    "GKE/Political systems",
-    "GKE/Government of Germany",
-    "GKE",
-    "Random stuff/Chor/Test for choir.md",
-    "Bio/Cytologie/Fettsäuren.md",
-    "Bio/Cytologie/Aminosäuren.md",
-    "Bio/Cytologie/Lipide.md",
-    "Bio/Bio - Main Page.md",
-    "English/English - Main Page.md",
-    "English/Wordlists/Wordlist — pro-life.md",
-    "Bio/Cytologie/Proteine.md",
-    "Chemie/Stoffklassen/Alkohole.md",
-    "Chemie/Chemie - Main Page.md",
-    "Bio/Cytologie/Cytologie - 1.md",
-    "Chemie/Stoffklassen",
-    "Chemie",
     "Physik/Kraft/Formeln für Kraft.md",
-    "Unbenannt.canvas",
-    "Die Newton’schen Axiome",
-    "Random stuff",
-    "Random stuff/Chor/Choir pdfs/The midnight of your birth.pdf",
-    "Random stuff/Chor/Choir pdfs",
-    "Chor 2.goodnotes",
-    "Ink/Writing/2026.9.18 - 12.00pm.svg"
+    "GKE/Political systems/Political systems - Great Britain.md"
   ]
 }
