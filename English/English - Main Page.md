@@ -2,7 +2,7 @@
 <h3>Vocabulary:</h3>
 Vocabulary is an important part of the english major class as a broad vocabulary helps you write better and more sophisticated texts.
 
-[[Wordlist — pro-life]]
+[[Wordlist — Pro-life]]
 [[Wordlist — One country, many cultures]]
 [[Wordlist — Voluntarism]]
 
