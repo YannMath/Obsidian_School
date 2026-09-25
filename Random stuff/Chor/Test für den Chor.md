@@ -13,3 +13,11 @@
 <h2>The midnight of your birth</h2>
 
 ![[The midnight of your birth.pdf]]
+
+<h2>The Rhythm of Life</h2>
+
+![[The Rhythm of Life.pdf]]
+
+<h2>Suzi’s carol</h2>
+
+![[Suzi’s carol.pdf]]

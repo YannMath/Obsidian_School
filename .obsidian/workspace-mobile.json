@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Erdkunde/Erdkunde - Main Page.md",
+                "file": "Random stuff/Chor/Test für den Chor.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Erdkunde - Main Page"
+              "title": "Test für den Chor"
+            }
+          },
+          {
+            "id": "a2685a5726f6fae1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Random stuff/Chor/Choir pdfs/Suzi’s carol.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Suzi’s carol"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,36 +197,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a6ba0649cd08823",
+  "active": "a2685a5726f6fae1",
   "lastOpenFiles": [
-    "Random stuff/Test - Info HÜ.md",
-    "Physik/Bewegungen/Bewegungen - Aufgaben 1.md",
-    "Physik/Physik - Main page.md",
+    "Random stuff/Chor/Choir pdfs/Suzi’s carol.pdf",
     "Fächerübersicht.md",
     "Erdkunde/Erdkunde - Main Page.md",
+    "Mathe/Mathe - Main Page.md",
     "English/English - Main Page.md",
-    "English/Wordlists/Wordlist — Voluntarism.md",
+    "Random stuff/Chor/Test für den Chor.md",
+    "Random stuff/Test - Info HÜ.md",
+    "GKE/Political systems/German chancellor.md",
+    "GKE/Government of Germany/Ministerial autonomy.md",
+    "Mathe/Grenzwerte/Grenzwerte - Funktionen.md",
+    "Random stuff/Chor/Choir pdfs/The Rhythm of Life.pdf",
+    "Bio/Cytologie/Aminosäuren.md",
+    "Bio/Bio - Main Page.md",
+    "Bio/Cytologie/Lipide.md",
+    "Physik/Physik - Main page.md",
+    "Physik/Bewegungen/Formeln für Bewegung.md",
+    "Physik/Bewegungen/Bewegungen - Aufgaben 1.md",
     "English/Wordlists/Wordlist — Pro-life.md",
     "English/Wordlists/Wordlist — One country, many cultures.md",
-    "Chemie/Stoffklassen/Alkohole.md",
-    "Bio/Cytologie/Aminosäuren.md",
-    "Bio/Cytologie/Lipide.md",
+    "Physik/Kraft/Formeln für Kraft.md",
+    "Mathe/Grenzwerte",
+    "Mathe",
+    "Physik/Kraft/Die Newton'schen Axiome.md",
     "Bio/Cytologie/Fettsäuren.md",
+    "English/Wordlists/Wordlist — Voluntarism.md",
+    "Chemie/Stoffklassen/Alkohole.md",
     "Chemie/Chemie - Main Page.md",
-    "Bio/Bio - Main Page.md",
-    "Unbenannt",
     "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Flächen.md",
     "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Gemeinschaft.md",
-    "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Gebäude.md",
-    "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Abfall.md",
-    "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Ernährung.md",
-    "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Wasser.md",
-    "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Mobilität.md",
-    "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Energie.md",
-    "GKE/GKE - Main Page.md",
     "Erdkunde/Nachhaltigkeit",
-    "Erdkunde",
-    "GKE/Political systems/German chancellor.md",
-    "GKE/Political systems/US president.md"
+    "Erdkunde"
   ]
 }

@@ -33,6 +33,17 @@ Bei Lipiden *unterscheidet* man gewisse Eigenschaften zwischen dem *Lipidkopf* u
 **Schwanz:**
 > - hydrophob
 
+<h2>Besondere Arten</h2>
+
+<h3>Phospholipid</ h3>
+
+Bsp:
+```smiles
+CCCCCCCC\C=C/CCCCCCCC(=O)OCC(COP(O)(=O)OCCN)OC(=O)CCCCCCC\C=C/CCCCCCCC
+```
+
+Diese sind die *Bestandteile der Biomembran*.
+
 <h4>Hier geht es zurück zur Main Page:</h4>
 
 [[Bio - Main Page]]

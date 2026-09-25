@@ -1,6 +1,7 @@
 <h2>Meine LKs</h2>
 
 [[English - Main Page]]
+[[Mathe - Main Page]]
 [[Erdkunde - Main Page]]
 
 <h2>Meine GKs</h2>
