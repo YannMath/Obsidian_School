@@ -15,22 +15,22 @@
               "state": {
                 "file": "Random stuff/Chor/Test für den Chor.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Test für den Chor"
             }
           },
           {
-            "id": "a2685a5726f6fae1",
+            "id": "8d5615277634dc95",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Random stuff/Chor/Choir pdfs/Suzi’s carol.pdf"
+                "file": "Random stuff/Chor/Choir pdfs/Chor.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Suzi’s carol"
+              "title": "Chor"
             }
           }
         ],
@@ -197,14 +197,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2685a5726f6fae1",
+  "active": "8d5615277634dc95",
   "lastOpenFiles": [
-    "Random stuff/Chor/Choir pdfs/Suzi’s carol.pdf",
+    "Random stuff/Chor/Test für den Chor.md",
+    "Random stuff/Chor/Choir pdfs/Chor.pdf",
     "Fächerübersicht.md",
+    "Random stuff/Chor/Choir pdfs/Suzi’s carol.pdf",
+    "Unbenannt.canvas",
+    "2026-09-25.md",
+    "Unbenannt.base",
     "Erdkunde/Erdkunde - Main Page.md",
     "Mathe/Mathe - Main Page.md",
     "English/English - Main Page.md",
-    "Random stuff/Chor/Test für den Chor.md",
     "Random stuff/Test - Info HÜ.md",
     "GKE/Political systems/German chancellor.md",
     "GKE/Government of Germany/Ministerial autonomy.md",
@@ -227,7 +231,6 @@
     "Chemie/Stoffklassen/Alkohole.md",
     "Chemie/Chemie - Main Page.md",
     "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Flächen.md",
-    "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Gemeinschaft.md",
     "Erdkunde/Nachhaltigkeit",
     "Erdkunde"
   ]
