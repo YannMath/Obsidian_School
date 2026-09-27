@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random stuff/Chor/Test für den Chor.md",
+                "file": "Deutsch/Übungsaufgaben - Rhetorische Mittel.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Test für den Chor"
-            }
-          },
-          {
-            "id": "8d5615277634dc95",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Random stuff/Chor/Choir pdfs/Chor.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Chor"
+              "title": "Übungsaufgaben - Rhetorische Mittel"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,16 +184,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d5615277634dc95",
+  "active": "1a6ba0649cd08823",
   "lastOpenFiles": [
+    "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Flächen.md",
+    "Deutsch/Übungsaufgaben - Rhetorische Mittel.md",
+    "Deutsch",
+    "Erdkunde/Erdkunde - Main Page.md",
+    "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Wasser.md",
+    "().md",
     "Random stuff/Chor/Test für den Chor.md",
+    "Random stuff/Chor/Choir pdfs/The midnight of your birth.pdf",
+    "Random stuff/Chor/Choir pdfs/Chor 4.pdf",
     "Random stuff/Chor/Choir pdfs/Chor.pdf",
     "Fächerübersicht.md",
     "Random stuff/Chor/Choir pdfs/Suzi’s carol.pdf",
     "Unbenannt.canvas",
     "2026-09-25.md",
     "Unbenannt.base",
-    "Erdkunde/Erdkunde - Main Page.md",
     "Mathe/Mathe - Main Page.md",
     "English/English - Main Page.md",
     "Random stuff/Test - Info HÜ.md",
@@ -228,10 +222,6 @@
     "Physik/Kraft/Die Newton'schen Axiome.md",
     "Bio/Cytologie/Fettsäuren.md",
     "English/Wordlists/Wordlist — Voluntarism.md",
-    "Chemie/Stoffklassen/Alkohole.md",
-    "Chemie/Chemie - Main Page.md",
-    "Erdkunde/Nachhaltigkeit/Nachhaltigkeit - Flächen.md",
-    "Erdkunde/Nachhaltigkeit",
-    "Erdkunde"
+    "Erdkunde/Nachhaltigkeit"
   ]
 }
